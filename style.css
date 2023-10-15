@@ -1,0 +1,19 @@
+nav {
+    background-color: #296e77;
+    padding:35px; 
+}
+
+/* Style for the navigation links */
+nav ul {
+    list-style-type: none; 
+}
+
+nav li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+nav a {
+    text-decoration: none; 
+    color: #fff; 
+}
